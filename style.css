@@ -218,10 +218,13 @@ footer ul {
 footer ul li {
     font-size: 1.5rem;
     padding: 5px;
-    
+
+    span{
+        color: rgb(74, 74, 74);
+    }
 
     a {
-        color: var(--cor-principal);
+        color: #be5519;
         text-decoration: none;
     }
 }
